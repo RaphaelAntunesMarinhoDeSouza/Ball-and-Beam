@@ -19,9 +19,9 @@ double P, I, D, U;
 double I_prec=0, U_prec=0, D_prec=0;        
 boolean Saturation = false;
 
-double Kp = 8.6; 
-double Ki = 1.1; 
-double Kd = 6.3;  
+double Kp = xx.x; 
+double Ki = xx.x; 
+double Kd = xx.x;  
 
 float measure_1 (void);
 float measure_2 (void);
